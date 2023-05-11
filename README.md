@@ -8,3 +8,5 @@
 
 # Report -- 
 [eds pbl.pdf.docx](https://github.com/abhishekanand667/Chatbot-using-NLTK-and-Keras-in-PYTHON---21/files/11454351/eds.pbl.pdf.docx)
+
+[EDS-PBL-21.pdf](https://github.com/abhishekanand667/Chatbot-using-NLTK-and-Keras-in-PYTHON---21/files/11454377/EDS-PBL-21.pdf)
